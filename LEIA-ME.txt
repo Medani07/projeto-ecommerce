@@ -1,0 +1,1 @@
+Pasta reservada para imagens locais do projeto. Nesta versão, as fotos da vitrine são carregadas de URLs externas; é necessária conexão com a internet.

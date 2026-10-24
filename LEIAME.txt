@@ -1,0 +1,20 @@
+PROJETO E-COMMERCE — VIVA MODA
+Projeto acadêmico: landing page responsiva de roupas e acessórios.
+
+O QUE FOI FEITO
+- Página inicial com HTML5 semântico (header, nav, main, section e footer).
+- Vitrine com seis produtos e imagens com texto alternativo (alt).
+- CSS externo com abordagem Mobile First e dois breakpoints (600px e 900px).
+- Menu responsivo que abre e fecha.
+- Formulário de contato com três campos, validação nativa e feedback em JavaScript.
+- Cálculo demonstrativo de frete usando if/else.
+- Layout pensado para celular, tablet e notebook.
+
+COMO ABRIR
+1. Descompacte a pasta projeto-ecommerce.
+2. Abra a pasta no Visual Studio Code.
+3. Abra o arquivo index.html no navegador ou use a extensão Live Server.
+4. As imagens dos produtos são carregadas de URLs externas; por isso, é necessário ter internet para visualizá-las.
+
+OBSERVAÇÃO
+O cálculo de frete é apenas uma simulação para fins acadêmicos. O formulário não envia dados para um servidor.
